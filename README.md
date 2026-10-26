@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devashish-cloude/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devashish-cloude/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Devashish-cloude/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Devashish-cloude/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Devashish-cloude/LeetCode/tree/master/3161-block-placement-queries) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Devashish-cloude/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devashish-cloude/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devashish-cloude/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Devashish-cloude/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Devashish-cloude/LeetCode/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devashish-cloude/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Devashish-cloude/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -93,14 +95,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Devashish-cloude/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devashish-cloude/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Devashish-cloude/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devashish-cloude/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Devashish-cloude/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devashish-cloude/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Devashish-cloude/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Devashish-cloude/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
 |  |
