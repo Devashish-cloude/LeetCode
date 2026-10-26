@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Devashish-cloude/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devashish-cloude/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2126-destroying-asteroids](https://github.com/Devashish-cloude/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devashish-cloude/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/Devashish-cloude/LeetCode/tree/master/3161-block-placement-queries) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devashish-cloude/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
@@ -77,8 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Devashish-cloude/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devashish-cloude/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Devashish-cloude/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devashish-cloude/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
