@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devashish-cloude/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/Devashish-cloude/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Devashish-cloude/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Devashish-cloude/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devashish-cloude/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Devashish-cloude/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Devashish-cloude/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Devashish-cloude/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
 |  |
